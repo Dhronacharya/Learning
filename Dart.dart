@@ -2,8 +2,10 @@ import "dart:math";
 
 void main() {
   // print(fibonoci(10));
-  print(Covered_Call_Ratio_Calculation(1000));
+  // print(Covered_Call_Ratio_Calculation(1000));
 
+  var a = 10;
+  print(a);
 }
 
 List fibonoci(int n) {
